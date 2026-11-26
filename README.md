@@ -1,0 +1,1 @@
+# NetologyTaskK8S7
